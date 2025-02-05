@@ -1,8 +1,8 @@
 # 💫 About Me:
--🔭 I’m currently working on personal chatbot
--👯 I’m looking to collaborate on technology based projects and work shops
--🌱 I’m currently learning Data analytics and AI with ML
--💬 Ask me about python,Data Science,MOngoDb,my SQL,Machine learning,Artificial Intelligence
+-🔭 I’m currently working on personal chatbot<br>
+-👯 I’m looking to collaborate on technology based projects and work shops<br>
+-🌱 I’m currently learning Data analytics and AI with ML<br>
+-💬 Ask me about python,Data Science,MOngoDb,my SQL,Machine learning,Artificial Intelligence<br>
 -How to reach me : mail : srinithyagopidesi@gmail.com,linkedin : https://www.linkedin.com/in/srinithya-gopidesi-5400412bb
 
 
@@ -18,7 +18,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -29,7 +28,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nithyasree145&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nithyasree145&theme=dark&hide_border=true)<br/>
